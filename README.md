@@ -21,4 +21,4 @@ Conclusion
 In summary, a temperature monitoring system is a practical and essential tool for measuring and managing temperature in various environments. With the integration of microcontrollers and sensors, it provides accurate readings, helps in automation, and ensures safety and efficiency. Whether it’s a simple system for hobbyists or a complex one for industrial use, temperature monitoring systems play a crucial role in modern technology.
 *OUTPUT- 
 <img width="485" height="283" alt="Image" src="https://github.com/user-attachments/assets/2cfe8e0a-1f73-409e-8f34-3697f81b7077" />
-
+<img width="490" height="265" alt="Image" src="https://github.com/user-attachments/assets/8ec6a759-19aa-4dcf-948c-43969670253b" />
